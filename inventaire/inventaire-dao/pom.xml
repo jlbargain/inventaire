@@ -4,7 +4,7 @@
   <parent>
     <groupId>fr.mediatheque</groupId>
     <artifactId>inventaire</artifactId>
-   <version>5.0.0</version>
+   <version>5.0.1-SNAPSHOT</version>
   </parent>
   
   <artifactId>inventaire-dao</artifactId>
