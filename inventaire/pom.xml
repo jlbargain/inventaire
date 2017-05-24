@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fr.mediatheque</groupId>
 	<artifactId>inventaire</artifactId>
-	<version>5.0.0-SNAPSHOT</version>
+	<version>5.0.0</version>
 	<packaging>pom</packaging>
 	<name>Module inventaire</name>
 	<description>gestion de l'inventaire de la mediathèque</description>
@@ -170,6 +170,6 @@
   
   <scm>
     <developerConnection>scm:git:https://github.com/jlbargain/inventaire.git</developerConnection>
-  <tag>HEAD</tag>
+  <tag>inventaire-5.0.0</tag>
   </scm>
 </project>
